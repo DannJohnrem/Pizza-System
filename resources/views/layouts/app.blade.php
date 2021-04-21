@@ -47,7 +47,7 @@
     @yield('content')
 
     <footer>
-        Copyright 2021 Pizza House
+        Copyright 2020 Pizza Street
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
